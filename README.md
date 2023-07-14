@@ -1,6 +1,7 @@
-## Oiii eu sou o Enzo Paganoti, sou dev front-end
-
-Eu tenho 15 anos comecei a pouco tempo na programação e estou aprendendo algumas novas linguagens
+<div>
+  <h1 align="center">Hi there 🪴</h1>
+  <p align="center">Hello, my name is <strong>Enzo</strong>. I'm 15 years old and I am an experienced <strong>front-end</strong> programmer.☕</p>
+</div>
 <a href="https://github.com/paganoti/">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=paganoti&show_icons=true&theme=dark"/>
 </a>
