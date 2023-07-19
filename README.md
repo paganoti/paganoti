@@ -1,9 +1,9 @@
 # Prazer sou o Paganoti(Enzo)
 
-<div>
-  <a href="https://github.com/paganoti/paganoti">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=paganoti&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paganoti&layout=compact&langs_count=7&theme=dark"/>
+<div align="center">
+  
+  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=paganoti&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=paganoti&theme=midnight-purple&hide_border=false&&layout=compact"/>
 </div>
 
 <div style="display: inline_block"><br>
