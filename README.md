@@ -1,10 +1,12 @@
-# Prazer sou o Paganoti(Enzo)
+Studying a Bachelor's Degree in Software Engineering (1th/8th semester) at UNIPÊ, passionate about games, gym, tech, soccer, and taking ideas off paper through code.
 
-<div align="center">
-  
-  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=paganoti&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=paganoti&theme=midnight-purple&hide_border=false&&layout=compact"/>
-</div>
+Reach me at: enzopaganoti@gmail.com
+
+### Stacks
+[![My Skills](https://skillicons.dev/icons?i=python,js,html,css,git)](https://skillicons.dev)
+
+### Languages
+```🇧🇷 Portuguese — Native``` · ```🇺🇸 English — Advanced```
 
 <div style="display: inline_block"><br>
   <img align="center" alt="paganoti-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
