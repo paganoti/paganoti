@@ -3,7 +3,7 @@ Studying a Bachelor's Degree in Software Engineering (1th/8th semester) at UNIP�
 Reach me at: enzopaganoti@gmail.com
 
 ### Stacks
-[![My Skills](https://skillicons.dev/icons?i=python,c,html,css,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,c,js,html,css,git)](https://skillicons.dev)
 
 ### Languages
 ```🇧🇷 Portuguese — Native``` · ```🇺🇸 English — Advanced```
